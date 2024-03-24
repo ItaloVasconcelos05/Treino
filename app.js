@@ -17,4 +17,4 @@ while (chute != numeroSecreto) {
     }
 }
 let tentativ = tent > 1 ? 'tentativas' : 'tentativa'
-alerta (`Você acertou o número Secreto ${nuneroSecreto} em ${tent} ${tentativ}`)
+alert(`Você acertou o número Secreto ${nuneroSecreto} em ${tent} ${tentativ}`)
